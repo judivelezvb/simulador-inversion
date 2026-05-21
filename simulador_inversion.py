@@ -14,7 +14,7 @@ st.write("Simulación de crecimiento del capital con reinversión anual")
 
 capital_inicial = st.number_input(
     "Capital inicial",
-    value=140_000_000,
+    value=1_000_000,
     step=1_000_000
 )
 
